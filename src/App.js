@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload | WORLD CONFIGURE AUTO BUILD.
+          Edit <code>src/App.js</code> and save to reload Hello World This is REACT NODE CICD PIPELINE.
         </p>
         <a
           className="App-link"
