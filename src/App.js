@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload Theek Hai.
+          Edit <code>src/App.js</code> and save to reload | Hello CDN World.
         </p>
         <a
           className="App-link"
